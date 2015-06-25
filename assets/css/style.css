@@ -736,6 +736,7 @@ textarea.form-control {
 	background: #3085a3;
 	text-align: center;
 	cursor: pointer;
+	height: 255px;
 }
 
 .grid figure img {
@@ -853,6 +854,7 @@ figure.effect-bubba h2 {
 }
 
 figure.effect-bubba p {
+	font-weight: bold;
 	padding: 20px 2.5em;
 	opacity: 0;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
